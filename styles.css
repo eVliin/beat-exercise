@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+}
+body{
+  background: #129799;
+;
+}
+header{
+  height: 44.07vw;
+}
+main{
+  background: #FFA185;
+  height: 100vw;
+}
+footer{
+  height: 11.713vw;
+}
